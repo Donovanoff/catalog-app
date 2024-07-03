@@ -9,8 +9,12 @@
     "plugin:react/recommended",
     "prettier"
   ],
-  "parser": "@typescript-eslint/parser",
+  "parser": "@babel/eslint-parser",
   "parserOptions": {
+    "requireConfigFile": false,
+    "babelOptions": {
+      "presets": ["@babel/preset-react", "@babel/preset-typescript"]
+    },
     "ecmaVersion": 12,
     "project": "./tsconfig.json",
     "sourceType": "module",
