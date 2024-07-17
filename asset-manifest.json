@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/catalog-app/static/css/main.ed2542fd.css",
+    "main.js": "/catalog-app/static/js/main.f990bc23.js",
+    "static/media/Logo.svg": "/catalog-app/static/media/Logo.b1043217fb7a48c5a1226887d508a61b.svg",
+    "static/media/Mont-Regular.otf": "/catalog-app/static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "/catalog-app/static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "/catalog-app/static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/Shopping-bag.svg": "/catalog-app/static/media/Shopping-bag.ba0fffd88d248ad51148152770b665ab.svg",
+    "static/media/Favourites.svg": "/catalog-app/static/media/Favourites.fd334380fd4a6831dfc3525fb6496d11.svg",
+    "static/media/Favourites-Filled.svg": "/catalog-app/static/media/Favourites-Filled.f6c5eaa4dbd40a629a2ed4a970863f9c.svg",
+    "static/media/Menu.svg": "/catalog-app/static/media/Menu.6760d3f5c876e36809a3e0d2ff2fdc6f.svg",
+    "static/media/Close.svg": "/catalog-app/static/media/Close.9ef4b5463b2a27fbb831f7c2b4fc176b.svg",
+    "index.html": "/catalog-app/index.html",
+    "main.ed2542fd.css.map": "/catalog-app/static/css/main.ed2542fd.css.map",
+    "main.f990bc23.js.map": "/catalog-app/static/js/main.f990bc23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed2542fd.css",
+    "static/js/main.f990bc23.js"
+  ]
+}
